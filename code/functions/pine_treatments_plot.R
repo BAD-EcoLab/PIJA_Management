@@ -8,7 +8,7 @@ pine_treatments_plot <- function()
   
   ## bring in data ready for modeling
   d <- read_parquet("data/model_data.parquet") %>% 
-    select(checklist_id, pinyon_ba, pin_ba_log, ponderosa_ba, pipo_ba_log,
+    select(pinyon_ba, pin_ba_log, ponderosa_ba, pipo_ba_log,
            prescribed_fire, mastication, thinning, harvest) %>% 
     ## pivot longer by treatment category
     pivot_longer(
