@@ -12,3 +12,8 @@ Rerunning the models should give you *nearly* identical results. The stochastic 
 Kelling, S., A. Johnston, W. M. Hochachka, M. Iliff, D. Fink, J. Gerbracht, C. Lagoze, F. A. L. Sorte, T. Moore, A. Wiggins, W.-K. Wong, et al. (2015). Can Observation Skills of Citizen Scientists Be Estimated Using Species Accumulation Curves? PLOS ONE 10:e0139600.
 
 Johnston, A., D. Fink, W. M. Hochachka, and S. Kelling (2018). Estimates of observer expertise improve species distributions from citizen science data. Methods in Ecology and Evolution 9:88–97.
+
+# How to cite:
+If the data or code associated with this repository are used, please cite the associated manuscript:
+
+Zachary L. Steel, Hailey M. Boone, Leah McTigue, Valerie Stein Foster, Merijn van den Bosch, Andrew N. Stillman, Caroline D. Cappello, Mark Ditmer, and Emily J. Francis. "Range-wide effects of vegetation management on a rapidly declining woodland bird". (Currently in review)
